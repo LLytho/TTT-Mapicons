@@ -1,0 +1,12 @@
+{
+	"title": "Lythos TTT MapIcons",
+	"type": "ServerContent",
+	"tags":	[ "fun", "build" ],
+	"ignore": [
+		"lythos_mapicons.jpg",
+		"*.git*",
+		"*.md",
+		"*.bat",
+		"*.gma"
+	]
+}
