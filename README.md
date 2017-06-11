@@ -1,6 +1,9 @@
 # TTT-Mapicons
 Mapicons for TTT gamemode in Garry's Mod
 
+# Missing icons
+If you miss some items you can create them yourself and do a merge request or create a issue for it :)
+
 # Current included maps
 + ttt_67thway_v14
 + ttt_67thway_v6
