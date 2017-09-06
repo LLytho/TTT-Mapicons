@@ -1,3 +1,10 @@
+# Steam
+You can find the addon on the workshop:
+http://steamcommunity.com/sharedfiles/filedetails/?id=937190451
+
+Check out my other addons:
+http://steamcommunity.com/id/lytho_/myworkshopfiles/?appid=4000
+
 # TTT-Mapicons
 Mapicons for TTT gamemode in Garry's Mod
 
