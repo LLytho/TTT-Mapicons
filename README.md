@@ -127,5 +127,6 @@ If you miss some items you can create them yourself and do a merge request or cr
 + ttt_terrortown
 + ttt_train_
 + ttt_underside_a1
++ ttt_vault
 + ttt_warehouses_v6_fixed
 + ttt_whitehouse_v9
