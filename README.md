@@ -130,3 +130,5 @@ If you miss some items you can create them yourself and do a merge request or cr
 + ttt_vault
 + ttt_warehouses_v6_fixed
 + ttt_whitehouse_v9
+
++ Updated 30+ Maps - full list shown here https://i.gyazo.com/349741d9de8a2b95723317cbde1a44c1.png
