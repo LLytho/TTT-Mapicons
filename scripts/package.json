@@ -1,0 +1,14 @@
+{
+  "name": "resize_helper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "resize": "node resize.js",
+    "readme": "node readme.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.29.0"
+  }
+}

@@ -1,2 +1,6 @@
 *.gma
 *.bat
+
+*.log
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+node_modules/
